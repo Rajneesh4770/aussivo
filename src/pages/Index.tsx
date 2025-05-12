@@ -16,20 +16,20 @@ const Index = () => {
         <img 
           src="/lovable-uploads/b327ae7f-abd4-4ba2-b4ac-6b66fbf108bd.png" 
           alt="Server Room Background" 
-          className="w-full h-full object-cover opacity-80"
+          className="w-full h-full object-cover opacity-95"
         />
-        <div className="absolute inset-0 bg-black bg-opacity-40"></div>
+        <div className="absolute inset-0 bg-black bg-opacity-25"></div>
       </div>
       
       {/* Gradient overlays */}
-      <div className="absolute inset-0 z-0 opacity-50">
+      <div className="absolute inset-0 z-0 opacity-40">
         <div className="absolute top-20 left-10 w-64 h-64 rounded-full bg-primary/5 blur-3xl"></div>
         <div className="absolute bottom-20 right-10 w-80 h-80 rounded-full bg-primary/10 blur-3xl"></div>
       </div>
       
       <div className="container px-4 py-12 md:py-20 mx-auto relative z-10">
         <div className="flex flex-col items-center justify-center text-center">
-          <div className="mb-8 animate-fade-in flex justify-center flex-col items-center gap-2">
+          <div className="mb-8 animate-fade-in flex justify-center items-center flex-col gap-2">
             <img 
               src="/lovable-uploads/log.png" 
               alt="Aussivo Logo" 
@@ -40,7 +40,7 @@ const Index = () => {
             </h1>
           </div>
           
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-4 animate-fade-in">
+          <h1 className="font-fustat text-4xl md:text-5xl lg:text-6xl font-bold mb-4 animate-fade-in bg-clip-text text-transparent bg-gradient-to-r from-[#F4FEF8] to-[#1BF472]">
             We're launching soon!
           </h1>
           
