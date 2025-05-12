@@ -35,7 +35,7 @@ const Index = () => {
               alt="Aussivo Logo" 
               className="h-16 md:h-20 mx-auto"
             />
-            <h1 className="text-white text-2xl  mb-4 animate-fade-in">
+            <h1 className="text-white text-2xl  mb-4 animate-fade-in font-fustat">
               Aussivo
             </h1>
           </div>
