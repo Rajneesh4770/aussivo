@@ -29,12 +29,15 @@ const Index = () => {
       
       <div className="container px-4 py-12 md:py-20 mx-auto relative z-10">
         <div className="flex flex-col items-center justify-center text-center">
-          <div className="mb-8 animate-fade-in">
+          <div className="mb-8 animate-fade-in flex justify-center flex-col items-center gap-2">
             <img 
-              src="/lovable-uploads/bd1abce8-ef88-41d9-a68c-a0d3dc79f96f.png" 
+              src="/lovable-uploads/log.png" 
               alt="Aussivo Logo" 
               className="h-16 md:h-20 mx-auto"
             />
+            <h1 className="text-4xl md:text-5xl  font-bold text-primary mb-4 animate-fade-in">
+              Aussivo
+            </h1>
           </div>
           
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-4 animate-fade-in">
