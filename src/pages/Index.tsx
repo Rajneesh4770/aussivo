@@ -69,18 +69,18 @@ const Index = () => {
           
           {/* Social Media Links */}
           <div className="mt-4 sm:mt-6 flex items-center justify-center space-x-6 animate-fade-in animate-[fadeIn_1s_ease-out_forwards_0.8s] opacity-0">
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Facebook">
+            {/* <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Facebook">
               <Facebook size={20} />
-            </a>
+            </a> */}
             <a href="https://x.com/aussivo" target="_blank" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Twitter">
               <Twitter size={20} />
             </a>
             <a href="https://www.instagram.com/aussivo.offical?igsh=aGkwc2JlczJsMWZ0" target="_blank" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Instagram">
               <Instagram size={20} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="LinkedIn">
+            {/* <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="LinkedIn">
               <Linkedin size={20} />
-            </a>
+            </a> */}
           </div>
           
           <p className="text-xs text-muted-foreground mt-2 opacity-70 animate-fade-in animate-[fadeIn_1s_ease-out_forwards_0.9s] opacity-0">
