@@ -46,9 +46,7 @@ const Index = () => {
               alt="Aussivo Logo" 
               className="h-12 md:h-16 mx-auto"
             />
-            <h1 className="text-white text-2xl  mb-4 animate-fade-in font-fustat">
-              Aussivo
-            </h1>
+           
           </div>
           
           <h1 className="font-fustat text-3xl md:text-4xl lg:text-5xl font-bold mb-2 sm:mb-3 animate-fade-in bg-clip-text text-transparent bg-gradient-to-r from-[#F4FEF8] to-[#1BF472] animate-pulse" style={{animationDuration: '3s'}}>
