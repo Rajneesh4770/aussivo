@@ -72,10 +72,10 @@ const Index = () => {
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Facebook">
               <Facebook size={20} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Twitter">
+            <a href="https://x.com/aussivo" target="_blank" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Twitter">
               <Twitter size={20} />
             </a>
-            <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Instagram">
+            <a href="https://www.instagram.com/aussivo.offical?igsh=aGkwc2JlczJsMWZ0" target="_blank" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="Instagram">
               <Instagram size={20} />
             </a>
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors duration-300 hover:scale-110 transform" aria-label="LinkedIn">
