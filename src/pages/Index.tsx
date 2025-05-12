@@ -45,8 +45,7 @@ const Index = () => {
           </h1>
           
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10 animate-fade-in">
-            Where Innovation Meets Finance! Join our waitlist 
-            to be the first to experience our revolutionary digital platform.
+          Where Intelligence Meets Infrastructure — Get Ready to Experience the Future of Hosting. Join our waitlist to be the first to explore our revolutionary platform.
           </p>
           
           <div className="w-full my-8 md:my-12">
